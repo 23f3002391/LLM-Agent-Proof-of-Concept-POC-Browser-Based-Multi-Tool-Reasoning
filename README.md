@@ -31,7 +31,7 @@ An interactive **web-based chat agent** that integrates with multiple LLM provid
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shreya-agr09/ppt-generator.git
+   git clone https://github.com/23f3002391/LLM-Agent-Proof-of-Concept-POC-Browser-Based-Multi-Tool-Reasoning.git
    cd ppt-generator
    
 2. **Set up virtual env**
